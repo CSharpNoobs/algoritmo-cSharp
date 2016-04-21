@@ -1,4 +1,8 @@
 ﻿/*
+ *  Author  : Antônio Paulo Neto 
+ *  File    : Program.cs
+ *  Project : Algoritmo_01 
+ *  
  *  O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
  *  porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
  *  do veículo e seu valor final.
@@ -51,7 +55,7 @@ namespace Algoritmo_01
             Console.Write("Valor do veículo : " + vlr_final + "\n");
             Console.Write("-------------------------------");
 
-            Console.ReadKey(); // para pausar aplicação
+            Console.ReadKey(); // espera entrada do teclado para fechar aplicação.
 
         }
     }
