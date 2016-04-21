@@ -49,7 +49,7 @@ namespace Algoritmo_02
             // exibe o resultado do problema que é o total com o desconto 
             Console.Write("Total com desconto : " + total_desconto);
 
-            Console.ReadKey(); // espera entrada do teclado para fechar aplicação.
+            Console.ReadKey(); // pausa o console até que algum evento do teclado seja executado
         }
     }
 }
