@@ -22,7 +22,7 @@ namespace Algoritmo_08
         {
             // inicializa e declara as variáveis do programa
             double nota1, nota2, nota3, media = 0;
-
+           
             // exibe no console
             Console.Write("Entre com a nota 1 : ");
             nota1 = double.Parse(Console.ReadLine());    // lê a variável nota1
