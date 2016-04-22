@@ -33,7 +33,7 @@ namespace Algoritmo_18
             // processamento utilizando a biblioteca Math para usar a raiz quadrada
             hipotenusa = Math.Sqrt((a * a) + (b * b));
 
-            // saíada ou resultado do programa
+            // saída ou resultado do programa
             Console.Write("Hipotenusa : " + hipotenusa);
 
             // espera entrada do teclado para fechar o programa
