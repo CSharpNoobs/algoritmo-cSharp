@@ -3,8 +3,7 @@
  * File    : Program.cs
  * Project : Algoritmo_21
  * 
- * Faça um algoritmo para ler um preço de um produto em reais e a taxa de conversão do dólar e informar
- * o preço do produto em dólares.
+ * Faça um algoritmo para ler um preço de um produto em reais  e informar o preço do produto em dólares.
  */
 
 using System;
