@@ -38,57 +38,57 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    com 19 anos possui 6935 dias de vida; veja um exemplo de saída: MARIA, VOCÊ JÁ VIVEU 6935 
    Dias
 
- [Algoritmo_07](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_07)
+[Algoritmo_07](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_07)
  * O restaurante a quilo Bem-Bão cobra R$12,00 por cada quilo de refeição. Escreva um algoritmo
    que leia o peso do prato montado pelo cliente (em quilos) e imprima o valor a pagar. Assuma que a 
    balança já desconte o peso do prato.
 
- [Algoritmo_08](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_08)
+[Algoritmo_08](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_08)
  * Faça um algoritmo para ler três notas de um aluno em uma disciplina e imprimir a sua média 
    ponderada (as notas tem pesos respectivos de 1, 2 e 3). 
 
- [Algoritmo_09](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_09)
+[Algoritmo_09](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_09)
  * Faça um algoritmo para ler dois numeros e fazer as operaçoes aritméticas básicas com eles. 
 
- [Algoritmo_10](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_10)
+[Algoritmo_10](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_10)
  * Faça um algoritmo que leia um número e imprima seu dobro. 
 
- [Algoritmo_11](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_11)
+[Algoritmo_11](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_11)
  * Faça um algoritmo que leia um número e imprima seu quadrado.  
 
- [Algoritmo_12](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_12)
+[Algoritmo_12](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_12)
  * Faça um algoritmo que calcule a area de um quadrado lendo o lado.     
 
- [Algoritmo_13](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_13)
+[Algoritmo_13](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_13)
  * Faça um algoritmo que calcule a area de um triangulo lendo a base e a altura. 
 
- [Algoritmo_14](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_14)
+[Algoritmo_14](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_14)
  * Faça um algoritmo que calcule a area de um circulo lendo o raio dele. 
 
- [Algoritmo_15](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_15)
+[Algoritmo_15](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_15)
  *  Calcule o volume de uma caixa d'água cilíndrica. 
 
- [Algoritmo_16](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_16)
+[Algoritmo_16](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_16)
  * Faça um algoritmo que receba três números, calcule e mostre a multiplicação desses números 
 
- [Algoritmo_17](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_17)
+[Algoritmo_17](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_17)
  * Faça um algoritmo que calcule e mostre a área de um losango. Sabe-se que: A = 
    (diagonal_maior * diagonal_menor)/2;  
 
- [Algoritmo_18](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_18)
+[Algoritmo_18](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_18)
  * Faça um algoritmo que leia os catetos de um triangulo e exiba o valor da hipotenusa
 
- [Algoritmo_19](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_19)
+[Algoritmo_19](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_19)
  * Faça um algoritmo para ler o salário de um funcionário e aumentá-lo em 15%. Após o aumento
    desconte 8% de impostos. Imprima o salário inicial, o salário com o aumento e o salário final. 
 
- [Algoritmo_20](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_20)
+[Algoritmo_20](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_20)
  * Faça um algoritmo para ler uma temperatura dada na escala Fahrenheit e exibir o equivalente em Celsius.
    C = 5/9(F-32)
   
- [Algoritmo_21](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_21)
+[Algoritmo_21](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_21)
  * Faça um algoritmo para ler um preço de um produto em reais e a taxa de conversão do dólar e informar
    o preço do produto em dólares. 
 
- [Algoritmo_22](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_22)
+[Algoritmo_22](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_22)
  * Faça um algoritmo para converter dólar em reais 
