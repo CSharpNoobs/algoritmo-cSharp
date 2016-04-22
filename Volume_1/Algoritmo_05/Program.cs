@@ -33,6 +33,8 @@ namespace Algoritmo_05
 
             // exibe resultado.
             Console.Write("Litros abastecido com o valor de RS" + abastecimento + " foi de : " + qtd_litros);
+
+            Console.ReadKey(); // espera entrada do teclado para encerrar a aplicação
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿/*
  * Author  : Antônio Paulo Neto
  * File    : Program.cs
- * Project : Algoritmo_15
+ * Project : Algoritmo_16
  * 
  * Faça um algoritmo que receba três números, calcule e mostre a multiplicação desses números 
  */
