@@ -14,25 +14,25 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    Exemplo : (valor_vei * 45) / 100 e (valor_vei * 28) / 100
    Exemplo :  valor_vei * 0.45 e valor_vei * 0.28
  
- [Algoritmo_02](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_02)
+[Algoritmo_02](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_02)
  * Faça um algoritmo para ler : a descrição do produto (nome), a quantidade adquirida, o preço unitário 
    e o percentual (%) de desconto. Calcular e escrever o total bruto (total_bruto = quantidade adiquirida * 
    preço unitário), o total de desconto,  o total a pagar (total a pagar = total_bruto - desconto).
 
- [Algoritmo_03](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_03)
+[Algoritmo_03](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_03)
  * Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os
    cavalos de um haras.
 
- [Algoritmo_04](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_04)
+[Algoritmo_04](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_04)
  * A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as 
    dimensões de um terreno e depois exibir a área do terreno. 
 
- [Algoritmo_05](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_05)
+[Algoritmo_05](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_05)
  * Um motorista deseja colocar no seu tanque X reais de gasolina. Escreva um algoritmo para ler o 
    preço do litro da gasolina e o valor do pagamento, e exibir quantos litros ele conseguiu colocar no 
    tanque.
 
- [Algoritmo_6](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_06)
+[Algoritmo_6](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_06)
  * Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida 
    ela possui. Considere sempre anos completos, e que um ano possui 365 dias. Ex: uma pessoa 
    com 19 anos possui 6935 dias de vida; veja um exemplo de saída: MARIA, VOCÊ JÁ VIVEU 6935 
