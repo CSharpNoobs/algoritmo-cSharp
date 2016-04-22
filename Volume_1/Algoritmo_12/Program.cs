@@ -1,7 +1,7 @@
 ﻿/*
  * Author  : Antônio Paulo Neto
  * File    : Program.cs
- * Project : Algoritmo_11
+ * Project : Algoritmo_12
  * 
  * Faça um algoritmo que calcule a area de um quadrado lendo o lado. 
  */
