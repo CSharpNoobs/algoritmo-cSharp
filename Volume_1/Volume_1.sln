@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo_18", "Algoritmo_1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo_19", "Algoritmo_19\Algoritmo_19.csproj", "{07D78B8C-011F-4FFF-92EE-4ECE51198729}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo_20", "Algoritmo_20\Algoritmo_20.csproj", "{5707E853-426E-4565-93B4-885B32DC1901}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{07D78B8C-011F-4FFF-92EE-4ECE51198729}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D78B8C-011F-4FFF-92EE-4ECE51198729}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D78B8C-011F-4FFF-92EE-4ECE51198729}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5707E853-426E-4565-93B4-885B32DC1901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5707E853-426E-4565-93B4-885B32DC1901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5707E853-426E-4565-93B4-885B32DC1901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5707E853-426E-4565-93B4-885B32DC1901}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
