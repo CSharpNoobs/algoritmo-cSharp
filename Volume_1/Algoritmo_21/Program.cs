@@ -21,7 +21,7 @@ namespace Algoritmo_21
         {
             // inicializa e declara variáveis 
             double precoReal = 0;
-            double precoDolar = 3.74d;
+            double taxa = 3.74d;
             double conversao = 0;
 
             // exibe no console
@@ -29,7 +29,7 @@ namespace Algoritmo_21
             precoReal = double.Parse(Console.ReadLine());   // lê o preço em real 
 
             // processamento para conversão em dólar
-            conversao = precoReal / precoDolar;
+            conversao = precoReal / taxa;
 
             // saída ou solução 
             Console.Write("Preço convertido em dolar : $" + conversao + " dolares");
