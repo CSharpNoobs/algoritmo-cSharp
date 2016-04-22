@@ -3,7 +3,7 @@
  * File    : Program.cs
  * Project : Algoritmo_13
  * 
- * Faça um algoritmo que calcule a area de um triangulo lendo a base e o altura. 
+ * Faça um algoritmo que calcule a area de um triangulo lendo a base e a altura. 
  */
 using System;
 using System.Collections.Generic;
