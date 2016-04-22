@@ -86,4 +86,6 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
  * Faça um algoritmo para ler uma temperatura dada na escala Fahrenheit e exibir o equivalente em Celsius.
    C = 5/9(F-32)
   
- 
+# Algoritmo_21
+ * Faça um algoritmo para ler um preço de um produto em reais e a taxa de conversão do dólar e informar
+   o preço do produto em dólares.    
