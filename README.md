@@ -7,7 +7,7 @@
 Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio Souza que estimula iniciantes ou pessoas que tenham   interesse na plataforma .NET a aprenderem a programar. Estamos organizando no nosso repositório GitHub, e dividiremos em níveis de  desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Program.cs no C# e no VB .NET (https://github.com/MarcioSousa/Algoritmo-vb.net) no Module1.vb em cada diretório já mencionado.
 
 
-# Algoritmo_01
+[# Algoritmo_01](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_01)
  *  O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
     porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
     do veículo e seu valor final.
@@ -88,4 +88,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
   
 # Algoritmo_21
  * Faça um algoritmo para ler um preço de um produto em reais e a taxa de conversão do dólar e informar
-   o preço do produto em dólares.    
+   o preço do produto em dólares. 
+
+# Algoritmo_22
+ * Faça um algoritmo para converter dólar em reais 
