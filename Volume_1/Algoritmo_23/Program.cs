@@ -3,7 +3,7 @@
  * File    : Program.cs
  * Project : Algoritmo_23
  * 
- * Faça um algoritmo para converter euro em reais;
+ * Faça um algoritmo para converter euro em real;
  */
 
 using System;
@@ -39,9 +39,6 @@ namespace Algoritmo_23
 
             // espera entrada de teclado para encerrar o programa
             Console.ReadKey();
-
-
-
         }
     }
 }
