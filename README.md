@@ -98,3 +98,10 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
  
 [Algoritmo_24](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_24)
  * Faça um algoritmo para converter real em euro;
+ 
+[Algoritmo_25](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_25)
+ * Faça um calculo de Juros Simples, digitando o valor inicial,
+   a quantidade de meses que será pago esse valor e a porcentagem de 
+   juros mensais. Ex: Um empréstimo no valor de 2.000,00, com juros 
+   mensais de 8% e a quantidade de 6 meses de pagamento, totalizando
+   o valor de 2.960,00 */
