@@ -94,5 +94,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
  * Faça um algoritmo para converter dólar em reais 
  
 [Algoritmo_23](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_23)
- * Faça um algoritmo para converter euro em reais;
+ * Faça um algoritmo para converter euro em real;
  
+[Algoritmo_24](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_24)
+ * Faça um algoritmo para converter real em euro;
