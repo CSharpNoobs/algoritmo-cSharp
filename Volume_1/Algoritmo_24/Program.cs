@@ -27,7 +27,7 @@ namespace Algoritmo_24
             real = double.Parse(Console.ReadLine());   // lê real
 
             // exibe no console
-            Console.Write("Entre com o valor da taxa do euro : ");
+            Console.Write("Entre com o valor da taxa do euro");
             taxa = double.Parse(Console.ReadLine());  // lê taxa
  
             // processamento de conversão de reais em euro
