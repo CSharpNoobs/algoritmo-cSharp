@@ -40,7 +40,7 @@ namespace Algoritmo_26
             // saída ou resultado
             Console.Write("Nome completo : " + nome + " " + sobrenome);
 
-            // espera entra do teclado para encerrar o programa
+            //  espera entrada do teclado para encerrar o programa
             Console.ReadKey();
         }
     }
