@@ -105,3 +105,10 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    juros mensais. Ex: Um empréstimo no valor de 2.000,00, com juros 
    mensais de 8% e a quantidade de 6 meses de pagamento, totalizando
    o valor de 2.960,00 */
+
+[Algoritmo_26](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_26)
+ * Faça um algoritmo que:
+   a) Leia o nome;
+   b) Leia o sobrenome;
+   c) Concatene o nome com o sobrenome;
+   d) Apresente o nome completo. 
