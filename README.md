@@ -112,3 +112,14 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    b) Leia o sobrenome;
    c) Concatene o nome com o sobrenome;
    d) Apresente o nome completo. 
+
+[Algoritmo_27](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_27)
+ * Faça um algoritmo que:
+ * a) Obtenha o valor para a variável HT (horas trabalhadas no mês);
+ * b) Obtenha o valor para a variável VH (valor hora trabalhada):
+ * c) Obtenha o valor para a variável PD (percentual de desconto);
+ * d) Calcule o salário bruto => SB = HT * VH;
+ * e) Calcule o total de desconto => TD = (PD/100)*SB;
+ * f) Calcule o salário líquido => SL = SB – TD;
+ * g) Apresente os valores de: Horas trabalhadas, Salário Bruto, Desconto, Salário
+ * Liquido. Apresente o nome completo. 
