@@ -129,3 +129,5 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    dos valores de forma que a variável A passe a possuir o valor da variável B e a
    variável B passe a possuir o valor da variável A. Apresente os valores trocados.
 
+[Algoritmo_29](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_29)
+ * Fazer um algoritmo para calcular o custo estimado de gasto com combustível em uma viagem de carro
