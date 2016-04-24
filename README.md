@@ -108,10 +108,10 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 
 [Algoritmo_26](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_26)
  * Faça um algoritmo que:
-   a) Leia o nome;
-   b) Leia o sobrenome;
-   c) Concatene o nome com o sobrenome;
-   d) Apresente o nome completo. 
+ * a) Leia o nome;
+ * b) Leia o sobrenome;
+ * c) Concatene o nome com o sobrenome;
+ * d) Apresente o nome completo. 
 
 [Algoritmo_27](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_27)
  * Faça um algoritmo que:
