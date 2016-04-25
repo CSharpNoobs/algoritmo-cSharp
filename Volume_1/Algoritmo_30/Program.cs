@@ -43,7 +43,6 @@ namespace Algoritmo_30
 
             // espera entrada de teclado para encerrar o programa
             Console.ReadKey();
-
         }
     }
 }
