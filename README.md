@@ -131,3 +131,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 
 [Algoritmo_29](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_29)
  * Fazer um algoritmo para calcular o custo estimado de gasto com combustível em uma viagem de carro
+ 
+[Algoritmo_30](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_30)
+ * Faça algoritmo que receba o salário de um funcionário e o percentual de aumento e calcule e mostre o valor do
+   aumento e o novo salário.
