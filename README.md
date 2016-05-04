@@ -8,7 +8,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 
 
 [Algoritmo_01](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_01)
- *[Youtube - Impostos de um veículo em C#](https://www.youtube.com/watch?v=2mFqG8G68I8)
+ |[Youtube - Impostos de um veículo em C#](https://www.youtube.com/watch?v=2mFqG8G68I8)
  * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
    porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
    do veículo e seu valor final.
