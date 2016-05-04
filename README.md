@@ -8,6 +8,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 
 
 [Algoritmo_01](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_01)
+ | [Youtube - Impostos de um veículo em C#](https://www.youtube.com/watch?v=2mFqG8G68I8)
  * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
    porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
    do veículo e seu valor final.
@@ -135,3 +136,19 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 [Algoritmo_30](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_30)
  * Faça algoritmo que receba o salário de um funcionário e o percentual de aumento e calcule e mostre o valor do
    aumento e o novo salário.
+
+[Algoritmo_31](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_31)
+ * Faça um algoritmo que receba o salário-base de um funcionário, calcule e mostre seu salário a receber, Sabendo
+   se que esse funcionário tem gratificação de R$ 50,00 e paga imposto de 10% sobre o salário-base.
+
+[Algoritmo_32](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_32)
+ * Faça um algoritmo que leia os valores de COMPRIMENTO, LARGURA  
+   ALTURA e apresente o valor do volume de uma caixa retangular. Utilize para o cálculo a fórmula VOLUME =  COMPRIMENTO * LARGURA * ALTURA
+
+[Algoritmo_33](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_33)
+ * Faça um algoritmo que leia dois valores inteiros (A e B) e apresente o resultado
+   do quadrado da soma dos valores lidos.
+
+[Algoritmo_34](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_34)
+ * Faça um algoritmo que leia um valor inteiro e apresente os resultados do
+   quadrado e do cubo do valor lido.  
