@@ -151,4 +151,11 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 
 [Algoritmo_34](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_34)
  * Faça um algoritmo que leia um valor inteiro e apresente os resultados do
-   quadrado e do cubo do valor lido.  
+   quadrado e do cubo do valor lido. 
+
+[Algoritmo_35](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_35)
+ * Ler um número inteiro (assuma até três dígitos) e imprimir a saída da seguinte forma:
+   CENTENA = x
+   DEZENA  = x
+   UNIDADE = x
+
