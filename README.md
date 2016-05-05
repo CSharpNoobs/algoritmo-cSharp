@@ -178,3 +178,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 [Algoritmo_40](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_40)
  * Antes de o racionamento de energia ser decretado, quase ninguém falava em quilowatts; mas, agora, todos incorporaram essa palavra    em seu vocabulário. Sabendo-se que 100 quilowatts de energia custa um sétimo do salário mínimo, fazer um algoritmo que receba o      valor do salário mínimo e a quantidade de quilowatts gasta por uma residência e calcule. Imprima o valor em reais de cada quilowatt   o valor em reais a ser pago o novo valor a ser pago por essa residência com um desconto de 10%. 
  
+[Algoritmo_41](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_41)
+ * Efetuar o cálculo do valor de uma prestação em atraso, utilizando a fórmula:
+   prestação =valor+ (valor*(taxa/100)*tempo).  
+ 
