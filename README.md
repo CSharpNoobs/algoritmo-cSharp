@@ -160,7 +160,14 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    DEZENA  = x
    UNIDADE = x
 
-[Algoritmo_36](https://github.com/paulinhoneto/algoritmo-cSharp/blob/master/Volume_1/Algoritmo_36/Program.cs)
+[Algoritmo_36](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_36)
  * Faça um algoritmo que receba um valor que foi depositado e exiba o
    valor com rendimento após um mês. Considere fixo o juro da
    poupança em 0,70% a. m.
+
+[Algoritmo_37](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_37)
+ * Ler um número inteiro e imprimir seu sucessor e seu antecessor. 
+
+[Algoritmo_38](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_38)
+ * Entrar com um número no formato CDU e imprimir invertido: UDC. (Exemplo: 123, sairá 321.) 
+   O número deverá ser armazenado em outra variável antes de ser impresso. 
