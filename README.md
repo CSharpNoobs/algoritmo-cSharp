@@ -185,3 +185,6 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 [Algoritmo_42](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_42)
  * Todo restaurante, embora por lei não possa obrigar o cliente a pagar, cobra 10% para o garçom. 
    Fazer um algoritmo que leia o valor gasto com despesas realizadas em um restaurante e imprima o valor total com a gorjeta.
+
+[Algoritmo_43](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_43)
+ * Criar um algoritmo que leia um valor de hora e informe quantos minutos se passaram desde o início do dia. 
