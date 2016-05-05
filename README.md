@@ -16,6 +16,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    Exemplo :  valor_vei * 0.45 e valor_vei * 0.28
  
 [Algoritmo_02](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_02)
+ | [Youtube - Cálculo com Desconto em C#](https://www.youtube.com/watch?v=6ZtN_8fk0AY)
  * Faça um algoritmo para ler : a descrição do produto (nome), a quantidade adquirida, o preço unitário 
    e o percentual (%) de desconto. Calcular e escrever o total bruto (total_bruto = quantidade adiquirida * 
    preço unitário), o total de desconto,  o total a pagar (total a pagar = total_bruto - desconto).
