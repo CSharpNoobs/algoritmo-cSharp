@@ -1,7 +1,7 @@
 ﻿/*
  * Author  : Antônio Paulo Neto
  * File    : Program.cs
- * Project : Algoritmo_39
+ * Project : Algoritmo_41
  * 
  * Efetuar o cálculo do valor de uma prestação em atraso, utilizando a fórmula:
  * prestação =valor+ (valor*(taxa/100)*tempo).  
