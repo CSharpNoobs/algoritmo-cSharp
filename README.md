@@ -173,5 +173,8 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    O número deverá ser armazenado em outra variável antes de ser impresso. 
 
 [Algoritmo_39](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_39)
- *  Entrar com quatro números e imprimir a média ponderada, sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4. 
+ * Entrar com quatro números e imprimir a média ponderada, sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4. 
+ 
+[Algoritmo_40](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_40)
+ * Antes de o racionamento de energia ser decretado, quase ninguém falava em quilowatts; mas, agora, todos incorporaram essa palavra    em seu vocabulário. Sabendo-se que 100 quilowatts de energia custa um sétimo do salário mínimo, fazer um algoritmo que receba o      valor do salário mínimo e a quantidade de quilowatts gasta por uma residência e calcule. Imprima o valor em reais de cada quilowatt   o valor em reais a ser pago o novo valor a ser pago por essa residência com um desconto de 10%. 
  
