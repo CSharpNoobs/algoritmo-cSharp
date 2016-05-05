@@ -171,3 +171,7 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 [Algoritmo_38](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_38)
  * Entrar com um número no formato CDU e imprimir invertido: UDC. (Exemplo: 123, sairá 321.) 
    O número deverá ser armazenado em outra variável antes de ser impresso. 
+
+[Algoritmo_39](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_39)
+ *  Entrar com quatro números e imprimir a média ponderada, sabendo-se que os pesos são respectivamente: 1, 2, 3 e 4. 
+ 
