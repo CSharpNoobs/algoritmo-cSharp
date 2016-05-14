@@ -4,7 +4,7 @@
 
 # algoritmo-cSharp
 
-Galera estou Desenvolvendo um projeto em C#, meu nome é Antonio Paulo. Esse projeto estimula iniciantes ou pessoas que tenham   interesse na plataforma .NET a aprenderem a programar. Estou organizando no repositório GitHub, e dividirei em níveis de  desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Program.cs no C#.
+Galera estou Desenvolvendo um projeto em C#, meu nome é Antonio Paulo. Esse projeto estimula iniciantes ou pessoas que tenham   interesse na plataforma .NET a aprenderem a programar. Estou organizando no repositório GitHub, e dividirei em níveis de  desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estou desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Program.cs no C#.
 
 [Algoritmo_01](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_01)
  * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
