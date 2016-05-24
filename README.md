@@ -4,11 +4,9 @@
 
 # algoritmo-cSharp
 
-Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio Souza que estimula iniciantes ou pessoas que tenham   interesse na plataforma .NET a aprenderem a programar. Estamos organizando no nosso repositório GitHub, e dividiremos em níveis de  desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estamos desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Program.cs no C# e no VB .NET (https://github.com/MarcioSousa/Algoritmo-vb.net) no Module1.vb em cada diretório já mencionado.
-
+Galera estou Desenvolvendo um projeto em C#, meu nome é Antonio Paulo. Esse projeto estimula iniciantes ou pessoas que tenham   interesse na plataforma .NET a aprenderem a programar. Estou organizando no repositório GitHub, e dividirei em níveis de  desenvolvimento (iniciante, médio e avançado). Dentro de cada diretório ou projeto terá um algoritmo, por enquanto estou desenvolvendo o volume 1 que conterá apenas algoritmos sequenciais. As descrições desses algoritmos sequencias estão em forma de comentários nos topos dos arquivos Program.cs no C#.
 
 [Algoritmo_01](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_01)
- | [Youtube - Impostos de um veículo em C#](https://www.youtube.com/watch?v=2mFqG8G68I8)
  * O Preço de um veículo é calculado pela soma do preço dos impostos (45% do preço de custo) e com a 
    porcentagem dos vendores (28% do preço de custo). faça um algoritmo que imprima a marca, o modelo 
    do veículo e seu valor final.
@@ -16,7 +14,6 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
    Exemplo :  valor_vei * 0.45 e valor_vei * 0.28
  
 [Algoritmo_02](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_02)
- | [Youtube - Cálculo com Desconto em C#](https://www.youtube.com/watch?v=6ZtN_8fk0AY)
  * Faça um algoritmo para ler : a descrição do produto (nome), a quantidade adquirida, o preço unitário 
    e o percentual (%) de desconto. Calcular e escrever o total bruto (total_bruto = quantidade adiquirida * 
    preço unitário), o total de desconto,  o total a pagar (total a pagar = total_bruto - desconto).
@@ -185,3 +182,6 @@ Galera estamos Desenvolvendo um projeto em C# e em VB eu, Antonio Paulo e Marcio
 [Algoritmo_42](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_42)
  * Todo restaurante, embora por lei não possa obrigar o cliente a pagar, cobra 10% para o garçom. 
    Fazer um algoritmo que leia o valor gasto com despesas realizadas em um restaurante e imprima o valor total com a gorjeta.
+
+[Algoritmo_43](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_43)
+ * Criar um algoritmo que leia um valor de hora e informe quantos minutos se passaram desde o início do dia. 
