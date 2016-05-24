@@ -185,3 +185,7 @@ Galera estou Desenvolvendo um projeto em C#, meu nome é Antonio Paulo. Esse pro
 
 [Algoritmo_43](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_43)
  * Criar um algoritmo que leia um valor de hora e informe quantos minutos se passaram desde o início do dia. 
+
+[Algoritmo_44](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_44)
+ * Criar um algoritmo que converta km/h para mph. 
+ 
