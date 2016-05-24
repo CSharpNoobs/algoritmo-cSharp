@@ -188,4 +188,6 @@ Galera estou Desenvolvendo um projeto em C#, meu nome é Antonio Paulo. Esse pro
 
 [Algoritmo_44](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_44)
  * Criar um algoritmo que converta km/h para mph. 
- 
+
+[Algoritmo_45](https://github.com/paulinhoneto/algoritmo-cSharp/tree/master/Volume_1/Algoritmo_45)
+ * Criar algoritmo que converta Pés em metros. 
