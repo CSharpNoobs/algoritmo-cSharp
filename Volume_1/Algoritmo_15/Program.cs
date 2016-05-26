@@ -36,7 +36,7 @@ namespace Algoritmo_15
             area = (PI * (raio * raio)) * altura;
 
             // saída ou solução
-            Console.Write("Area da caixa d'agua cilindrica é " + area);
+            Console.Write("Volume da caixa d'agua cilindrica é " + area);
             
             // espera entrada do teclado para encerrar o programa
             Console.ReadKey();
