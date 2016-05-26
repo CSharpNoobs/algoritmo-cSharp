@@ -22,7 +22,7 @@ namespace Algoritmo_15
             const double PI = 3.14d;
             double raio = 0;
             double altura = 0;
-            double area = 0;
+            double volume = 0;
 
             // exibe no console
             Console.Write("Entre com o raio da caixa d' agua cilindrica : ");
@@ -33,10 +33,10 @@ namespace Algoritmo_15
             altura = double.Parse(Console.ReadLine()); // lê altura
 
             // processamento
-            area = (PI * (raio * raio)) * altura;
+            volume = (PI * (raio * raio)) * altura;
 
             // saída ou solução
-            Console.Write("Volume da caixa d'agua cilindrica é " + area);
+            Console.Write("Volume da caixa d'agua cilindrica é " + volume);
             
             // espera entrada do teclado para encerrar o programa
             Console.ReadKey();
